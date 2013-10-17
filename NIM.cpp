@@ -31,9 +31,11 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	
 	int val;
 	do
 	{
+		cout << "Heimir Johannesson" << endl;
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
